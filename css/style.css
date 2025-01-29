@@ -1,0 +1,14 @@
+.Box{
+    width: 100px;
+    height: 100px;
+}
+
+.red{
+    background-color: red;
+}
+
+.green{
+background-color: greenyellow;
+padding: 100px;
+margin-top: 20px;
+}
